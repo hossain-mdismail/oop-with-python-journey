@@ -8,12 +8,12 @@ Object-Oriented Programming (OOP) is a programming paradigm that organizes code 
 
 Throughout this repository, I’ll be documenting and practicing key OOP concepts day by day. This journey will cover the following topics:
 
--Classes and Objects
+Classes and Objects
 
--Constructors and __repr__
+Constructors and __repr__
 
--Inheritance
+Inheritance
 
--Polymorphism
+Polymorphism
 
--Abstraction
+Abstraction
