@@ -17,3 +17,6 @@ Inheritance
 Polymorphism
 
 Abstraction
+
+
+By the end of this project, I aim to be comfortable with implementing OOP principles in Python and will have a strong foundation to tackle more advanced topics.
